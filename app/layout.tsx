@@ -26,6 +26,7 @@ export default function RootLayout({
           >
             {children}
           </ThemeProvider>
+          <div></div>
       </body>
     </html>
   );
